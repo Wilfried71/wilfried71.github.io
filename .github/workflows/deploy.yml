@@ -36,3 +36,6 @@ jobs:
 
       - name: Build website
         run: mkdocs build
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
