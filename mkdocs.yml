@@ -1,2 +1,4 @@
-site_name: My Docs
-theme: material
+site_name: Site Wilfried71
+theme: 
+  name: material
+  language: fr
